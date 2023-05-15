@@ -10,7 +10,9 @@ Welcome
 
 ### Informations
 ![template](https://github.com/Dvanmeploph/List-User-Agent/blob/main/assets/beautify-picture.png)
- 
+  
+### • - Made With [ FerlyAfriliyan ( Dvanmeploph ) ]
+### • - Developer : Merch Elz And • - [ Team ] - •
 # ✭ LIST RANDOM USER AGENT  
 ### • - [ ( Link Pertama ) ]
 ### - [ https://whatmyuseragent.com/browser/sb/samsung-browser/96 ]
