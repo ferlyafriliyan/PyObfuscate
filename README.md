@@ -19,3 +19,6 @@ Welcome
   
 ### • - [ ( Link Ketiga ) ]
 ### - [ https://whatmyuseragent.com/browser/sb/samsung-browser/9 ]
+  
+###### • - [ ( Link Ke Empat ) ]
+### - [ https://whatmyuseragent.com/device/op/oppo-1105 ]
