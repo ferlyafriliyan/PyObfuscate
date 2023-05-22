@@ -273,3 +273,6 @@ Welcome
   
 ```Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/99.0.4844.47 Mobile/15E148 Safari/604.1```
   
+```Mozilla/5.0 (Linux; Android 10; CPH2109 Build/RKQ1.158760.001; wv) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/147.0.5653.92 Mobile Safari/537.36```
+  
+```Mozilla/5.0 (Linux; Android 7; SM-J610G Build/PPR1.141169.011; wv) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/126.0.5750.138 Mobile Safari/537.36```
