@@ -15,9 +15,9 @@ Welcome
 # ✭ LIST RANDOM USER AGENT  
   
 ###### • - [ ( USER AGENT ) ]
-```Mozilla/5.0 (Linux; Android 10; CPH2109 Build/RKQ1.158760.001; wv) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/147.0.5653.92 Mobile Safari/537.36```
+```Mozilla/5.0 (Linux; Android 10; CPH2109 Build/RKQ1.158760.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.5653.92 Mobile Safari/537.36```
   
-  ```Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G858790  Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko)  SamsungBrowser/8377.406 Chrome/7369503 QQ/8.8.95.6925 Mobile Safari/537.36```
+```Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G858790  Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko)  SamsungBrowser/8377.406 Chrome/7369503 QQ/8.8.95.6925 Mobile Safari/537.36```
   
 ```Mozilla/5.0 (Linux; Android 4.4.2; Lenovo A536 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.73 Mobile Safari/537.36```
   
