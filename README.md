@@ -440,4 +440,6 @@ Welcome
   
 ```Mozilla/5.0 (Linux; Android 11; SM-G610M Build/PKQ1.155142.018; wv) AppleWebKit/537.36(KHTML, like Gecko) Chrome/121.0.5693.150 Mobile Safari/537.36```
   
-```  
+```Mozilla/5.0 (Linux; Android 10; CPH2109 Build/RKQ1.199007.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.5596.116 Mobile Safari/537.36```
+  
+```Mozilla/5.0 (Linux; Android 11; CPH2109 Build/RKQ1.204839.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5704.108 Mobile Safari/537.36```
