@@ -445,7 +445,7 @@ Welcome
   
 ```Mozilla/5.0 (Linux; Android 12; SM-A405FN Build/RP1A.198139.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5546.87 Mobile Safari/537.36```
   
-```Mozilla/5.0 (Linux; Android 12; MI A6 Build/PPR1.163794.005; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.5574.131 Mobile```
+```Mozilla/5.0 (Linux; Android 12; MI A6 Build/PPR1.163794.005; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.5574.131 Mobile Safari/537.36 OPR/52.2.2254.54723```
   
 ```Mozilla/5.0 (Linux; Android 11; Google Pixel 6 Build/RP1A.136068.017; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.5751.121 Mobile Safari/537.36```
   
