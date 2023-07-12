@@ -343,3 +343,7 @@ Mozilla/5.0 (Linux; Android 4.4.4; OPPO 1105 Build/KTU84P) AppleWebKit/537.36 (K
 Mozilla/5.0 (Linux; Android 11.1.1; oppo 15 ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Mobile Safari/537.36 YaApp_Android/10.30 YaSearchBrowser/10.30
 Mozilla/5.0 (Linux; Android 11.4.2; XT1068 Build/LXB22.46-28) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.217.77 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 5.1.4; Moto G (5) Plus Build/NPNS25.137-35-5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/183.0.1444.82 UCBrowser/12.13.4.1214 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Linux x86_64; en-US) AppleWebKit/603.35 (KHTML, like Gecko) Chrome/52.0.1401.106 Safari/535
+Mozilla/5.0 (compatible; MSIE 9.0; Windows; U; Windows NT 6.2; Win64; x64 Trident/5.0)
+Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/72.7
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_8_1; like Mac OS X) AppleWebKit/603.47 (KHTML, like Gecko)  Chrome/48.0.2810.128 Mobile Safari/603.2
